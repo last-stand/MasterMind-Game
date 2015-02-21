@@ -1,0 +1,14 @@
+"Generate 5 digit code made of digits between 1 to 8 within 12 attempts (eg:12345)" 
+
+[Done]	Get code scaffold ready
+	 folder, bash, sublime, runtest, main, module, test
+[Done] Generate 5 digit code made of digits between 1 to 8 
+[Done] User interaction (take guess from user)
+[Done]Validation
+[Done] Verify guess
+Check cofirm and present status of given number guess
+	confirm,present
+[Done] Count attempts
+[Done]Time the game
+[Done]Report the result
+[Done]Integrate the parts of the game
